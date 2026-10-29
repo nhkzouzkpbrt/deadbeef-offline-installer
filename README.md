@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Music+Player-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 DeaDBeeF Free Installer** — DeaDBeeF is a modular, highly customizable audio player for Linux and Windows with minimal resource usage. Works without internet access, no account required. Full offline installation.
+**💻 DeaDBeeF Free Installer** — DeaDBeeF is a free, open-source, lightweight audio player for Linux and Windows. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About DeaDBeeF
 
-DeaDBeeF is a modular, highly customizable audio player for Linux and Windows with minimal resource usage. It supports a vast range of audio formats through plugins, features a tabbed playlist, gapless playback, and a comprehensive tag editor.
+DeaDBeeF is a free, open-source, lightweight audio player for Linux and Windows. Focused on audio quality and minimal resource usage, DeaDBeeF supports plugins for virtually any audio format, has a tabbed playlist interface, and provides gapless playback with ReplayGain support. Its small size and technical focus make it popular with audiophiles who prioritize audio quality over visual features.
 
 ---
 
 ## ❌ Problem: DeaDBeeF is hard to access
 
-- **Minimal by Default** — Requires manual plugin installation for many features
-- **Dated Interface** — UI design is functional but visually dated
-- **Linux-Primary** — Windows version less frequently updated
-- **No Streaming** — Plays only local files; no streaming service integration
+- **Linux Primary** — Linux version most actively developed; Windows port secondary
+- **Interface Design** — Minimalist design without modern visual conveniences
+- **Streaming Services** — No streaming platform integration
+- **Configuration** — Plugin-based architecture requires manual setup for desired functionality
 
 ---
 
@@ -121,7 +121,7 @@ DeaDBeeF is a modular, highly customizable audio player for Linux and Windows wi
 
 ---
 
-**DeaDBeeF Free Installer** — DeaDBeeF is a modular, highly customizable audio player for Linux and Windows with minimal resource usage. Install without internet connection today!
+**DeaDBeeF Free Installer** — DeaDBeeF is a free, open-source, lightweight audio player for Linux and Windows. Install without internet connection today!
 
 <div align="center">
 
